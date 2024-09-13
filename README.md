@@ -1,5 +1,5 @@
 Personal Portfolio Website
-This is my personal portfolio website showcasing my work, skills, and experience in web development.
+This is a template for a personal portfolio website showcasing your work, skills, and experience in web development.
 
 Features
 Project Showcase: Display of key projects.
